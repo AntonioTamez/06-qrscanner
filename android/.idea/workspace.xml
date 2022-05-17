@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a778346d-74f4-4fb7-b068-a4cdb952befe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ionic.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/pages/tab1/tab1.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/pages/tab1/tab1.page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/pages/tab2/tab2.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/pages/tab2/tab2.page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/pages/tabs/tabs-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/pages/tabs/tabs-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/services/data-local.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/services/data-local.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\axtame\.android\avd\Pixel_XL_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\axtame\.android\avd\Pixel_3_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -42,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../05-peliculasApp/android/app" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
